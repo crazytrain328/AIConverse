@@ -1,6 +1,5 @@
-![Screenshot (267)](https://github.com/crazytrain328/AIConverse/assets/113792434/e59aa488-1c61-49d9-bf32-46be7d58b1b9)
 # AIConverse
-<h3>"AIConverse: Your Intelligent Conversation Companion, seamlessly blending advanced AI to understand and respond to your every query with personalized, insightful answers." <br/>
+<h3>AIConverse: Your Intelligent Conversation Companion, seamlessly blending advanced AI to understand and respond to your every query with personalized, insightful answers. <br/>
   "Revolutionizing communication, AIConverse offers a dynamic, interactive experience, adapting and learning from each interaction to make conversations more engaging and informative."</h3>
 <br>
 
