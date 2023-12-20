@@ -25,7 +25,7 @@
    ```bash
    https://realpython.com/installing-python/
    ```
-   To install pip after installing python:
+   To install pip:
    ```bash
    python get-pip.py
    ```
