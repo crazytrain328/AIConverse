@@ -20,19 +20,32 @@
    ```bash
    virtualenv env
    ```
+4) Make sure you have Python and pip installed
+   To Install Python:
+   ```bash
+   https://realpython.com/installing-python/
+   ```
+   To install pip after installing python:
+   ```bash
+   python get-pip.py
+   ```
+5) Install Django
+   ```bash
+   pip install django
+   ```
 4) Create A New Django Project.
    ```bash
    django-admin startproject AIConverse.
    ```
-5) Create a New App Base.
+5) Create a New App chatbot.
    ```bash
    django-admin startapp chatbot
    ```
-5) Delete all the created files inside studybudd and copy and paste the Files in This repository.
-6) Copy the env folder inside studybudd folder.
+5) Delete all the created files inside main AIConverse folder and copy and paste the Files in This repository.
+6) Copy the env folder inside main AIConverse folder.
 7) Change the working directory to studybudd
    ```bash
-      cd DocuBot
+      cd AIConverse
    ```  
 8) Activate the Virtual Environment.<br>
    i) Windows
@@ -48,11 +61,11 @@
 10) Put the OpenAI API key.
     Go to chatbot/views.py
     And paste your API key in the openai_api_key variable.  
-9) Start the Server.
+11) Start the Server.
    ```bash
       python manage.py runserver
    ```
-10) Go to the below URL to run the project.
+12) Go to the below URL to run the project.
     ```bash
     http://127.0.0.1:8000/
     ```  
