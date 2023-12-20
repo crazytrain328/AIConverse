@@ -20,7 +20,7 @@
    ```bash
    virtualenv env
    ```
-4) Make sure you have Python and pip installed
+4) Make sure you have Python and pip installed</br>
    To Install Python:
    ```bash
    https://realpython.com/installing-python/
@@ -43,22 +43,22 @@
    ```
 5) Delete all the created files inside main AIConverse folder and copy and paste the Files in This repository.
 6) Copy the env folder inside main AIConverse folder.
-7) Change the working directory to studybudd
+7) Change the working directory to AIConverse
    ```bash
       cd AIConverse
    ```  
 8) Activate the Virtual Environment.<br>
    i) Windows
       ```bash
-         env\scripts\activate
+         env\scripts\activate.ps1
       ```
    ii) Linux
       ```bash
-         source env\bin\activate
+         source env\bin\activate.ps1
 9) Download all the requirements
     ```bash
       pip install -r requirements.txt
-10) Put the OpenAI API key.
+10) Put the OpenAI API key:
     Go to chatbot/views.py
     And paste your API key in the openai_api_key variable.  
 11) Start the Server.
